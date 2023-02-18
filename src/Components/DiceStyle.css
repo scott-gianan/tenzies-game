@@ -1,0 +1,17 @@
+.individual-die{
+    width: 5rem;
+    height: 5rem;
+    box-shadow: 5px 5px rgba(2, 24, 44, 0.747);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.die-num {
+    font-size: 2.5rem;
+}
+
+.die-active {
+    background-color: aquamarine;
+}

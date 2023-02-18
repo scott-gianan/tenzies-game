@@ -1,4 +1,4 @@
-# meme-generator
+# Tenzies-Game
 Capstone project from scrimba's [react course](https://scrimba.com/learn/learnreact)
 
 View the live site [here](https://tenzies-by-scott.netlify.app/)

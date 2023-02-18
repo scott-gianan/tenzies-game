@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+*{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 800;
+}
+
 body{
     background-color: #0B2434;
 }
@@ -8,6 +15,10 @@ body{
     background-color:antiquewhite;
     margin: 2rem auto 0 auto;
     border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:2rem;
 }
 
 .dice-container {
@@ -39,14 +50,16 @@ body{
 
 h1, p{
     text-align: center;
+    margin:0;
+    padding:0;
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 p {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 button {
